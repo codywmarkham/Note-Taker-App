@@ -16,6 +16,8 @@ Once deployed, the application appears as the image attached below on a traditio
 
 ![Explantion Image](https://github.com/codywmarkham/Note-Taker-App/blob/main/assets/images/example.PNG)
 
+![Example Image](https://github.com/codywmarkham/Note-Taker-App/blob/main/assets/images/example1.PNG)
+
 ## Resources
 
 Express
