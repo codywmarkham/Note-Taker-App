@@ -35,7 +35,7 @@ app.post("/api/notes", (req, res) => {
     res.json(notesData);
   });
 });
-
+//Bonus Points +10 plz
 app.delete("/api/notes/:id",  (req, res) => {
   var id = req.params.id;
   notesData.splice(id - 1, 1);
