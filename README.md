@@ -14,9 +14,9 @@ Deployed Website Link:https://agile-everglades-98422.herokuapp.com/notes
 
 Once deployed, the application appears as the image attached below on a traditional desktop.
 
-![Explantion Image](https://github.com/codywmarkham/Note-Taker-App/blob/main/assets/images/example.PNG)
+![Explantion Image](https://github.com/codywmarkham/Note-Taker-App/blob/main/public/assets/images/example.PNG)
 
-![Example Image](https://github.com/codywmarkham/Note-Taker-App/blob/main/assets/images/example1.PNG)
+![Example Image](https://github.com/codywmarkham/Note-Taker-App/blob/main/public/assets/images/example1.PNG)
 
 ## Resources
 
